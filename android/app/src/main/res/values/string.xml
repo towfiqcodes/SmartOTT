@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartOTT</string>
+    <string name="facebook_app_id" translatable="false">604540305060684</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb604540305060684</string>
+</resources>

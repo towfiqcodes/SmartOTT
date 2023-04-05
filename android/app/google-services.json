@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874594976442",
+    "project_id": "smartott-3c2e0",
+    "storage_bucket": "smartott-3c2e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874594976442:android:0dea29dd7c9e733d6db883",
+        "android_client_info": {
+          "package_name": "com.selise.SmartOTT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874594976442-c0ah7li1om43tadn763t458k8n45k886.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.selise.SmartOTT",
+            "certificate_hash": "c9e214f0038d7eae1a168e2bfaa0f032880475e2"
+          }
+        },
+        {
+          "client_id": "874594976442-88sejgnjs9q4r0r8nftl061uk9u7mj26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAFZAcAhXVcKhYxdoRbzZdY5dArijfaYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874594976442-88sejgnjs9q4r0r8nftl061uk9u7mj26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
